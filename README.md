@@ -21,3 +21,4 @@ How to install
 ![20230802160125_1 (2)](https://github.com/trodon2410/yellowjack-exterior/assets/141275703/9eeb7a8d-dc5e-4aa4-b60d-13cc0217bfc1)
 ![20230802160142_1 (2)](https://github.com/trodon2410/yellowjack-exterior/assets/141275703/e351b52c-9d74-4580-b589-f35d6b155c66)
 ![20230802155440_1](https://github.com/trodon2410/yellowjack-exterior/assets/141275703/d20a7dea-d90a-4315-9332-8ecbb7918917)
+![20230802160134_1](https://github.com/trodon2410/yellowjack-exterior/assets/141275703/942fc8dc-567a-4f11-81e7-129c6d45ae59)
